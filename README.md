@@ -1,0 +1,2 @@
+# SMGTraining
+SMG JavaScript training
